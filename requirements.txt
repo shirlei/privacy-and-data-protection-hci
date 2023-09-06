@@ -1,0 +1,5 @@
+# packages used locally along with Python 3.11.4
+jupyter_client==7.4.8
+jupyter_core==5.1.0
+pandas==2.0.0
+plotly==5.14.1
